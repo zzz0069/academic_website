@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fa"
   name = "Programming"
-  description = "**Python**, Bash, R, git, LaTeX"
+  description = "**Python**, JavaScript, R, Java, C"
   
 [[feature]]
   icon = "brain"
