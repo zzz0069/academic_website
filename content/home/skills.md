@@ -18,18 +18,18 @@ subtitle = ""
   icon = "code"
   icon_pack = "fa"
   name = "Programming"
-  description = "**Python**, JavaScript, R, Java, C"
+  description = "**Python**, JavaScript, R, Java, C, HTML, CSS"
   
 [[feature]]
   icon = "brain"
   icon_pack = "fa"
-  name = "Neuroimaging software"
-  description = "**FSL**, **ANTS**, AFNI, BrainVoyager, Freesurfer, Connectome Workbench"  
+  name = "Deep learning Framework"
+  description = "**Pytorch**, Tensorflow, Fastai, Huggingface"  
   
 [[feature]]
-  icon = "language"
+  icon = "book"
   icon_pack = "fa"
-  name = "Languages"
-  description = "**Greek**, **Georgian**, **English**, German, Russian"
+  name = "Library"
+  description = "Numpy, Pandas, NLTK, Scikit-learn, SciPy, Statsmodels, OpenCV, Matplotlib, Seaborn, Flask, Django"
 
 +++

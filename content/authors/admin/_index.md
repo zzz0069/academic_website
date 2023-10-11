@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: medical doctor turned neuroscientist and image analyst.
+bio: 
 education:
   courses:
   - course: Ph.D. in Compter Science & Software Engineering 
