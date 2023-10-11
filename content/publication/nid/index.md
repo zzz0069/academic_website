@@ -3,7 +3,7 @@ abstract: "Given the abundance of cyber-attacks in wireless communications, mach
 authors:
 - admin
 - Sanjeev Baskiyar
-date: "2023-09-15T00:00:00Z"
+#date: "2023-09-15T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -11,28 +11,28 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- icon: 
+- icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/niksirbi/pcarpet
-projects:
-- BS
+  url: https://github.com/zzz0069/intrusion_detection
+# projects:
+# - BS
 publication: "Under review"
 publication_short: "Under review"
 publication_types:
 - "2"
-publishDate: "2023-09-15T00:00:00Z"
+publishDate: "2023-01-15T00:00:00Z"
 slides: 
 summary: A heterogeneous ensemble deep architectures for network intrusion detection.
 tags:
 - Under review
 title: "CAT: a simple heterogeneous ensemble learning framework for network intrusion detection"
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+# url_code: ""
+# url_dataset: ""
+# url_pdf: ""
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
+# url_source: ""
+# url_video: ""
 ---
