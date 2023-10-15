@@ -11,12 +11,12 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
+# - icon: github
+#   icon_pack: fab
+- name: Code
   url: https://github.com/zzz0069/intrusion_detection
-# projects:
-# - BS
+- name: Data
+  url: https://www.unb.ca/cic/datasets/ids-2018.html
 publication: "Under review"
 publication_short: "Under review"
 publication_types:

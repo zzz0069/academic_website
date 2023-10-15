@@ -19,8 +19,12 @@ authors:
 - "..."
 - Gerry Dozier
 - Cheryl D. Seals
+
+tags:
+- Accepted
+
 date: "2023-02-16T00:00:00Z"
-doi: "https://doi.org/10.1186/s40478-020-01105-2"
+doi: ""
 featured: false
 image:
   caption:
@@ -28,14 +32,13 @@ image:
   preview_only: false
 projects:
 publication: 'The IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things'
-publication_short: "AIBThings"
+publication_short: "The IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)"
 publication_types:
-- "2"
+- "1"
 publishDate: "2023-02-16T00:00:00Z"
 slides:
 summary:
-tags:
-- published
+
 title: 'Online Sexism Detection and Classification by
 Injecting User Gender Information'
 url_code: ""

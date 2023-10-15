@@ -14,20 +14,20 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
+# - icon: github
+#   icon_pack: fab
+- name: Code
   url: https://github.com
-# - name: Data
-#   url: 
+- name: Data
+  url: https://www.kaggle.com/datasets/devintheai/arxiv-cs-papers-multi-label-classification-200k-v1
 projects:
 publication: "22nd IEEE International Conference on Machine Learning and Applications"
-publication_short: "ICMLA"
+publication_short: "22nd IEEE International Conference on Machine Learning and Applications (ICMLA)"
 publication_types:
-- "3"
+- "1"
 publishDate: "2023-08-31T00:00:00Z"
 slides:
-summary: This study aims to evaluate the effectiveness of NLP models, for the task of multi-label classification of arXiv CS paper classification.
+summary: "This study aims to evaluate the effectiveness of NLP models, for the task of multi-label classification of arXiv CS paper classification."
 tags:
 - Accepted 
 title: "Multi-Label Classification of CS Papers Using Natural Language Processing Models"

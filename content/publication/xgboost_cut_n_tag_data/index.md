@@ -15,10 +15,8 @@ authors:
 - "..."
 - Ruijun Liu
 date: "2023-02-13T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1093/bfgp/elad024"
 links:
-- name: Data
-  url: https://openneuro.org/datasets/ds001981
 featured: true
 image:
   caption:

@@ -12,20 +12,20 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com
+# - icon: github
+#   icon_pack: fab
+#   name: Code
+#   url: https://github.com
 # - name: Data
 #   url: 
 projects:
 publication: "IEEE Transactions on Neural Networks and Learning Systems"
-publication_short: "IEEE TNNLS"
+publication_short: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
 publication_types:
-- "3"
+- "2"
 publishDate: "2023-04-05T00:00:00Z"
 slides:
-summary: This study aims to evaluate the effectiveness of NLP models, for the task of multi-label classification of arXiv CS paper classification.
+summary: "Explainable AI, using Inductive Logic Programming, seeks to enhance transparency in machine learning, addressing challenges for self-explanatory AI systems."
 tags:
 - Published 
 title: "A Critical Review of Inductive Logic Programming Techniques for Explainable AI"

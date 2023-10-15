@@ -12,14 +12,21 @@ image:
   caption:
   focal_point: ""
   preview_only: false
+links:
+# - icon: github
+#   icon_pack: fab
+- name: Code
+  url: https://github.com
+- name: Data
+  url: https://archive.ics.uci.edu/dataset/145/statlog+heart
 projects:
 publication: '22nd IEEE International Conference on Machine Learning and Applications'
-publication_short: "ICMLA"
+publication_short: "22nd IEEE International Conference on Machine Learning and Applications (ICMLA)"
 publication_types:
-- "2"
+- "1"
 publishDate: "2023-08-31T00:00:00Z"
 slides:
-summary:
+summary: "This paper proposes an ensemble ML model combining BERT, FT-transformer, and XGBoost for accurate heart disease prediction. Validated results show promise for healthcare."
 tags:
 - Accepted
 title: "Towards the Diagnosis of Heart Disease Using an Ensemble Learning Approach"
