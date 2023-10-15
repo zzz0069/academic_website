@@ -19,7 +19,7 @@ authors:
 - "..."
 - Gerry Dozier
 - Cheryl D. Seals
-date: "2023-08-08T00:00:00Z"
+date: "2023-02-16T00:00:00Z"
 doi: "https://doi.org/10.1186/s40478-020-01105-2"
 featured: false
 image:
@@ -31,7 +31,7 @@ publication: 'The IEEE International Conference on Artificial Intelligence, Bloc
 publication_short: "AIBThings"
 publication_types:
 - "2"
-publishDate: "2023-08-08T00:00:00Z"
+publishDate: "2023-02-16T00:00:00Z"
 slides:
 summary:
 tags:
