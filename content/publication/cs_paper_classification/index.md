@@ -21,8 +21,8 @@ links:
 # - name: Data
 #   url: 
 projects:
-publication: ""
-publication_short:
+publication: "22nd IEEE International Conference on Machine Learning and Applications"
+publication_short: "ICMLA"
 publication_types:
 - "3"
 publishDate: "2023-08-31T00:00:00Z"
