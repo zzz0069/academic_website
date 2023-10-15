@@ -25,7 +25,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- medetomidine
+
 publication: 'Briefings in Functional Genomics'
 publication_short: ""
 publication_types:

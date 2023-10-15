@@ -3,7 +3,7 @@ abstract: "Given the abundance of cyber-attacks in wireless communications, mach
 authors:
 - admin
 - Sanjeev Baskiyar
-#date: "2023-09-15T00:00:00Z"
+date: "2023-03-15T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,7 +21,7 @@ publication: "Under review"
 publication_short: "Under review"
 publication_types:
 - "2"
-publishDate: "2023-01-15T00:00:00Z"
+publishDate: "2023-03-15T00:00:00Z"
 slides: 
 summary: A heterogeneous ensemble deep architectures for network intrusion detection.
 tags:
