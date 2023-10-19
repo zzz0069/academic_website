@@ -12,7 +12,7 @@ links:
 slides:
 summary: "A heterogeneous ensemble deep architectures for network intrusion detection"
 tags:
-- collaborative
+- research
 - include
 title: "CAT"
 url_code: ""

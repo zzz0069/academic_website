@@ -7,25 +7,25 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Code
-  url: https://github.com/PRIME-RE/RheMAP
+  name: Popper
+  url: https://github.com/logic-and-learning-lab/Popper
 - icon: github
   icon_pack: fab
-  name: 
-  url: 
-- icon: github
-  icon_pack: fab
-  name: 
-  url: 
-- icon: github
-  icon_pack: fab
-  name: $/partial$ILP
+  name:  ∂ILP
   url: https://github.com/ai-systems/DILP-Core
+- icon: github
+  icon_pack: fab
+  name: Metagol
+  url: https://github.com/metagol/metagol
+- icon: github
+  icon_pack: fab
+  name: Aleph
+  url: https://www.cs.ox.ac.uk/activities/programinduction/Aleph/aleph.html
 summary: Non-linear warps between common rhesus macaque brain templates. 
 tags:
-- collaborative
+- research
 - include
-title: RheMAP
+title: End-to-end Neural-Symbolic Reinforcement Learning
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,8 +33,8 @@ url_video: ""
 ---
 
 ## Summary
-The RheMAP project provides access to a set of pre-calculated non-linear registrations between some of the most commonly used rhesus macaque brain templates (D99, INIA19, MNI macaque, NMT, Yerkes19). The [repository](https://github.com/PRIME-RE/RheMAP) contains the code used to calculate the registration warps and example code that demonstrates how to use the resulting warp files to remap data between different template spaces. Non-linear registration warps were generated using [ANTs](http://stnava.github.io/ANTs/) and can directly be downloaded from [Zenodo](https://zenodo.org/record/3668510).
+We first summarizes the recent advances in ILP and a discussion of statistical relational learning and neural-symbolic algorithms, which offer synergistic views to ILP. Following a critical review of the recent advances, we delineate observed challenges and highlight potential avenues of further ILP-motivated research toward developing self-explanatory artificial intelligence systems ([paper](https://ieeexplore.ieee.org/abstract/document/10092808)). Second, we are Establishing a Neural-Symbolic Reinforcement Learning model built on state-of-the-art image captioning models, differentiable inductive logic programming, and policy gradient (In progress).
 
 ## Authors
-Nikoloz Sirmpilatze & P. Christiaan Klink.
+Zheng Zhang, Levent Yilmaz, Bo Liu.
 
