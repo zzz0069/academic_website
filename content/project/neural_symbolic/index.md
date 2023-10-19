@@ -9,10 +9,18 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/PRIME-RE/RheMAP
-- icon:
-  icon_pack:
-  name: Data
-  url: https://zenodo.org/record/3668510
+- icon: github
+  icon_pack: fab
+  name: 
+  url: 
+- icon: github
+  icon_pack: fab
+  name: 
+  url: 
+- icon: github
+  icon_pack: fab
+  name: $/partial$ILP
+  url: https://github.com/ai-systems/DILP-Core
 summary: Non-linear warps between common rhesus macaque brain templates. 
 tags:
 - collaborative

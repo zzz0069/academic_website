@@ -5,14 +5,13 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
+- name: Github
   url: https://github.com/zzz0069/AU-ETRI_CM_V3.0
 slides:
 summary: 
 tags:
 - research
+- include
 title: A Novel Inference Architecture for Drivers' Status Estimation in L3 Driving Mode
 url_code: ""
 url_pdf: ""
