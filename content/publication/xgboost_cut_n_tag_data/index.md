@@ -15,13 +15,18 @@ authors:
 - "..."
 - Ruijun Liu
 date: "2023-02-13T00:00:00Z"
-doi: "https://doi.org/10.1093/bfgp/elad024"
+doi: ""
 links:
 featured: true
 image:
   caption:
   focal_point: ""
   preview_only: false
+links:
+# - icon: github
+#   icon_pack: fab
+- name: Paper
+  url: https://academic.oup.com/bfg/advance-article/doi/10.1093/bfgp/elad024/7206818?login=true
 projects:
 
 publication: 'Briefings in Functional Genomics'

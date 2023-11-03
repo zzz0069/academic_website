@@ -5,19 +5,15 @@ authors:
 - Levent Yilmaz
 - Bo Liu
 date: "2023-04-05T00:00:00Z"
-doi: "10.1109/TNNLS.2023.3246980"
+doi: ""
 featured: true
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 links:
-# - icon: github
-#   icon_pack: fab
-#   name: Code
-#   url: https://github.com
-# - name: Data
-#   url: 
+- name: Paper
+  url: https://ieeexplore.ieee.org/document/10092808
 projects:
 publication: "IEEE Transactions on Neural Networks and Learning Systems"
 publication_short: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"

@@ -21,7 +21,7 @@ authors:
 - Cheryl D. Seals
 
 tags:
-- Accepted
+- Published
 
 date: "2023-02-16T00:00:00Z"
 doi: ""
@@ -30,6 +30,11 @@ image:
   caption:
   focal_point: ""
   preview_only: false
+links:
+# - icon: github
+#   icon_pack: fab
+- name: Paper
+  url: https://ieeexplore.ieee.org/document/10292474
 projects:
 publication: 'The IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things'
 publication_short: "The IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)"

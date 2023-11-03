@@ -21,7 +21,7 @@ links:
   url: https://archive.ics.uci.edu/dataset/145/statlog+heart
 projects:
 publication: '22nd IEEE International Conference on Machine Learning and Applications'
-publication_short: "22nd IEEE International Conference on Machine Learning and Applications (ICMLA)"
+publication_short: "22nd IEEE International Conference on Machine Learning and Applications (ICMLA). Accepted"
 publication_types:
 - "1"
 publishDate: "2023-08-31T00:00:00Z"
